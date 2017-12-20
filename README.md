@@ -13,10 +13,14 @@ Since 2017.12.20
 ## kubernetes-dashboard-amd64
 |tag|update time|pull command|
 |---|-----------|------------|
+|v1.6.0|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.6.0|
+|v1.6.1|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.6.1|
+|v1.6.2|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.6.2|
+|v1.6.3|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.6.3|
+|v1.7.0|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.7.0|
+|v1.7.1|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.7.1|
 |v1.8.1|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.8.1|
-|v1.7.1|||
-|v1.6.1|||
-|v1.6.0|||
+|v1.8.0|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.8.1|
 
 ## heapster-amd64
 |tag|update time|pull command|

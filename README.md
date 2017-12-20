@@ -4,7 +4,7 @@ We can get the tags from [Google Cloud Platform](https://console.cloud.google.co
 
 Since 2017.12.20
 
-## etcd 
+## etcd-amd64
 |tag|update time|pull command|
 |---|-----------|------------|
 |3.1.11|2017.12.20|docker pull dolphintwo/etcd-amd64:3.1.11|
@@ -14,10 +14,11 @@ Since 2017.12.20
 |tag|update time|pull command|
 |---|-----------|------------|
 |v1.8.1|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.8.1|
-|v1.8.0|||
 |v1.7.1|||
-|v1.7.0|||
-|v1.6.3|||
-|v1.6.2|||
 |v1.6.1|||
 |v1.6.0|||
+
+## heapster-amd64
+|tag|update time|pull command|
+|---|-----------|------------|
+|v1.5.0|2017.12.20|docker pull dolphintwo/heapster-amd64:v1.5.0|

@@ -1,0 +1,4 @@
+etcd-amd64
+heapster-amd64
+k8s-dns-kube-dns-amd64
+kubernetes-dashboard-amd64

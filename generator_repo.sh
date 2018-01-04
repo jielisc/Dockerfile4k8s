@@ -3,4 +3,5 @@ for repo in `cat repositories`;do
     mkdir $repo
     touch $repo/tags
     cp ./generator.sh $repo/
+    cp ./print.sh $repo/
 done

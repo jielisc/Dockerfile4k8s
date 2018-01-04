@@ -3,3 +3,4 @@ heapster-amd64
 k8s-dns-kube-dns-amd64
 kubernetes-dashboard-amd64
 kube-apiserver-amd64
+kube-scheduler-amd64

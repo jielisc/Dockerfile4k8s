@@ -8,6 +8,7 @@
     - [k8s-dns-kube-dns-amd64](#k8s-dns-kube-dns-amd64)
     - [kubernetes-dashboard-amd64](#kubernetes-dashboard-amd64)
     - [kube-apiserver-amd64](#kube-apiserver-amd64)
+    - [kube-scheduler-amd64](#kube-scheduler-amd64)
 
 <!-- /TOC -->
 ## Get tag 
@@ -149,3 +150,9 @@ Since 2017.12.20
 |64|v1.8.5|2018.1.4|docker pull dolphintwo/kube-apiserver-amd64:v1.8.5|
 |65|v1.8.6|2018.1.4|docker pull dolphintwo/kube-apiserver-amd64:v1.8.6|
 |66|v1.9.0|2018.1.4|docker pull dolphintwo/kube-apiserver-amd64:v1.9.0|
+
+## kube-scheduler-amd64
+[website](https://console.cloud.google.com/gcr/images/google-containers/GLOBAL/kube-scheduler-amd64?project=google-containers&gcrImageListsize=200)
+
+|id|tag|update time|pull command|
+|--|---|-----------|------------|

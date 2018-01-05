@@ -2,7 +2,6 @@
 <!-- TOC -->
 
 - [Dockerfile4k8s](#dockerfile4k8s)
-    - [Get tag](#get-tag)
     - [etcd-amd64](#etcd-amd64)
     - [heapster-amd64](#heapster-amd64)
     - [k8s-dns-kube-dns-amd64](#k8s-dns-kube-dns-amd64)
@@ -16,8 +15,6 @@
     - [kube-dnsmasq-amd64](#kube-dnsmasq-amd64)
 
 <!-- /TOC -->
-## Get tag 
-We can get the tags from [Google Cloud Platform](https://console.cloud.google.com/gcr/images/google-containers/GLOBAL/etcd-amd64?project=google-containers&gcrImageListsize=50) 
 
 Since 2017.12.20
 
@@ -157,6 +154,7 @@ Since 2017.12.20
 |64|v1.8.5|2018.1.4|docker pull dolphintwo/kube-apiserver-amd64:v1.8.5|
 |65|v1.8.6|2018.1.4|docker pull dolphintwo/kube-apiserver-amd64:v1.8.6|
 |66|v1.9.0|2018.1.4|docker pull dolphintwo/kube-apiserver-amd64:v1.9.0|
+|67|v1.9.1|2018.1.5|docker pull dolphintwo/kube-apiserver-amd64:v1.9.1|
 
 ## kube-scheduler-amd64
 [website](https://console.cloud.google.com/gcr/images/google-containers/GLOBAL/kube-scheduler-amd64?project=google-containers&gcrImageListsize=200)
@@ -238,6 +236,7 @@ Since 2017.12.20
 |73|v1.8.5|2018.1.4|docker pull dolphintwo/kube-scheduler-amd64:v1.8.5|
 |74|v1.8.6|2018.1.4|docker pull dolphintwo/kube-scheduler-amd64:v1.8.6|
 |75|v1.9.0|2018.1.4|docker pull dolphintwo/kube-scheduler-amd64:v1.9.0|
+|76|v1.9.1|2018.1.5|docker pull dolphintwo/kube-scheduler-amd64:v1.9.1|
 
 ## kube-controller-manager-amd64
 [website](https://console.cloud.google.com/gcr/images/google-containers/GLOBAL/kube-controller-manager-amd64?project=google-containers&gcrImageListsize=200)

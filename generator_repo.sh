@@ -4,4 +4,5 @@ for repo in `cat repositories`;do
     touch $repo/tags
     cp ./generator.sh $repo/
     cp ./print.sh $repo/
+    touch $repo/README.md
 done

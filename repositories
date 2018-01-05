@@ -9,3 +9,5 @@ pause-amd64
 kube-proxy-amd64
 kubedns-amd64
 kube-dnsmasq-amd64
+k8s-dns-dnsmasq-nanny-amd64
+k8s-dns-sidecar-amd64

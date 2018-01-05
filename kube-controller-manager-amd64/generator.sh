@@ -7,5 +7,5 @@ done
 echo ""
 
 for tag in `cat tags`;do
-    echo "${PWD##*/}/$tag      $tag"
+    echo "${PWD##*/}/$tag"
 done

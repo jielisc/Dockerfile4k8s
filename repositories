@@ -11,3 +11,4 @@ kubedns-amd64
 kube-dnsmasq-amd64
 k8s-dns-dnsmasq-nanny-amd64
 k8s-dns-sidecar-amd64
+heapster-influxdb-amd64

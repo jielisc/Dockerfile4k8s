@@ -13,3 +13,6 @@ k8s-dns-dnsmasq-nanny-amd64
 k8s-dns-sidecar-amd64
 heapster-influxdb-amd64
 heapster-grafana-amd64
+kube-discovery-amd64
+k8s-dns-dnsmasq-amd64
+

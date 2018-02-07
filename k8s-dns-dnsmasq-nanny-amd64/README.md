@@ -11,3 +11,4 @@
 |06|1.14.5|2018.1.5|docker pull dolphintwo/k8s-dns-dnsmasq-nanny-amd64:1.14.5|
 |07|1.14.6|2018.1.5|docker pull dolphintwo/k8s-dns-dnsmasq-nanny-amd64:1.14.6|
 |08|1.14.7|2018.1.5|docker pull dolphintwo/k8s-dns-dnsmasq-nanny-amd64:1.14.7|
+|09|1.14.8|2018.1.6|docker pull dolphintwo/k8s-dns-dnsmasq-nanny-amd64:1.14.8|

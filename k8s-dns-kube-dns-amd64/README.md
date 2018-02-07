@@ -16,4 +16,5 @@
 |11|1.14.5|2017.12.22|docker pull dolphintwo/k8s-dns-kube-dns-amd64:1.14.5|
 |12|1.14.6|2017.12.22|docker pull dolphintwo/k8s-dns-kube-dns-amd64:1.14.6|
 |13|1.14.7|2017.12.22|docker pull dolphintwo/k8s-dns-kube-dns-amd64:1.14.7|
-|14||||
+|14|1.14.8|2018.1.6|docker pull dolphintwo/k8s-dns-kube-dns-amd64:1.14.8|
+|15||||

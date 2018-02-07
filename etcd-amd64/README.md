@@ -11,4 +11,5 @@
 |06|3.0.4|2017.12.22|docker pull dolphintwo/etcd-amd64:3.0.4|
 |07|3.1.10|2017.12.22|docker pull dolphintwo/etcd-amd64:3.1.10|
 |08|3.1.11|2017.12.20|docker pull dolphintwo/etcd-amd64:3.1.11|
-|09||||
+|09|3.2.14|2018.1.24|docker pull dolphintwo/etcd-amd64:3.2.14|
+|10||||

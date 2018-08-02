@@ -15,4 +15,5 @@ heapster-influxdb-amd64
 heapster-grafana-amd64
 kube-discovery-amd64
 k8s-dns-dnsmasq-amd64
-
+coredns
+pause

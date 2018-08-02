@@ -82,3 +82,4 @@
 |77|v1.9.2|2018.1.5|docker pull dolphintwo/kube-proxy-amd64:v1.9.2|
 |76|v1.8.7|2018.1.5|docker pull dolphintwo/kube-proxy-amd64:v1.8.7|
 |77|v1.9.2|2018.1.5|docker pull dolphintwo/kube-proxy-amd64:v1.9.2|
+|78|v1.11.1|2018.8.2|docker pull dolphintwo/kube-proxy-amd64:v1.11.1|

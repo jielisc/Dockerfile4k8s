@@ -81,3 +81,4 @@
 |76|v1.9.1|2018.1.5|docker pull dolphintwo/kube-controller-manager-amd64:v1.9.1|
 |77|v1.8.7|2018.1.17|docker pull dolphintwo/kube-controller-manager-amd64:v1.8.7|
 |78|v1.9.2|2018.1.19|docker pull dolphintwo/kube-controller-manager-amd64:v1.9.2|
+|79|v1.11.1|2018.8.2|docker pull dolphintwo/kube-controller-manager-amd64:v1.11.1|

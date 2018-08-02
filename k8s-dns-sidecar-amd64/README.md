@@ -18,3 +18,4 @@
 |13|1.14.6|2018.1.5|docker pull dolphintwo/k8s-dns-sidecar-amd64:1.14.6|
 |14|1.14.7|2018.1.5|docker pull dolphintwo/k8s-dns-sidecar-amd64:1.14.7|
 |15|1.14.8|2018.1.6|docker pull dolphintwo/k8s-dns-sidecar-amd64:1.14.8|
+|16|1.14.10|2018.8.2|docker pull dolphintwo/k8s-dns-sidecar-amd64:1.14.10|

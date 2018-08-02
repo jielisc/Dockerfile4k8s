@@ -12,4 +12,4 @@
 |07|v1.8.0|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.8.0|
 |08|v1.8.1|2017.12.20|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.8.1|
 |09|v1.8.2|2018.1.15|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.8.2|
-|09||||
+|10|v1.8.3|2018.8.2|docker pull dolphintwo/kubernetes-dashboard-amd64:v1.8.3|
